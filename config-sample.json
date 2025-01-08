@@ -1,0 +1,8 @@
+{
+    "homeserver": "https://example.org",
+    "deviceId": "my-dev-device",
+    "userId": "@user:example.org",
+    "password": "super-secret-password",
+    "registerToken": "Token-Goes-Here",
+    "leaveOnStart": false
+}

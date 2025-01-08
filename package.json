@@ -1,0 +1,21 @@
+{
+  "name": "matrix-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.ht-dev.de/Hammer1279/matrix-bot.git"
+  },
+  "author": "Hammer1279",
+  "license": "MIT",
+  "dependencies": {
+    "@matrix-org/matrix-sdk-crypto-wasm": "^12.1.0",
+    "matrix-bot": "file:",
+    "matrix-js-sdk": "^35.1.0"
+  },
+  "type": "module"
+}
