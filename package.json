@@ -15,6 +15,7 @@
   "dependencies": {
     "@matrix-org/matrix-sdk-crypto-wasm": "^12.1.0",
     "matrix-bot": "file:",
+    "matrix-bot-sdk": "^0.7.1",
     "matrix-js-sdk": "^35.1.0"
   },
   "type": "module"
