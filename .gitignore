@@ -133,3 +133,5 @@ dist
 # Files with sensitive login data
 config.json
 token.txt
+storage.json
+crypto
